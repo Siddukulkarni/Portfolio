@@ -6,12 +6,14 @@ import Skills from './Components/Skills';
 import Project from './Components/Project';
 import Contact from './Components/Contact';
 import Navbarcomp from './Components/Navbarcomp';
+import Count from './Components/Count';
 
 const App = () => {
   return (
     <>
       <Router>
         <Navbarcomp/>
+        <Count/>
         <Routes>
 <Route path='/' element={<Home/>}/>
 <Route path='/about' element={<About />} />
