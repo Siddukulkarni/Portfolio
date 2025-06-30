@@ -8,11 +8,11 @@ const Home = () => {
       <div className="container-fluid home-container">
         <div className="row align-items-center">
           <div className="col-12 col-md-6 text-section">
-            <h1 className="title">Hi, This is M Nawaz  </h1>
+            <h1 className="title">Hi, This is Siddu Kulkarni  </h1>
             
             <h5 className="subtitle">And I'm BCA Student</h5>
             <p className="description">
-              Passionate about learning new technologies and building new amazing websites.
+              A passonite Coder.
             </p>
           </div>
           <div className="col-12 col-md-6 text-center image-section">
