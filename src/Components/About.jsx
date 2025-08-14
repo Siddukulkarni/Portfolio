@@ -9,16 +9,12 @@ const About = () => {
         <div className="col-12 col-md-6 about-text">
           <h1>About Me</h1>
           <p>
-            Hello! I'm <strong>M Nawaz</strong>, a passionate  Doing For MERN Stack Developer dedicated to crafting
-            innovative and user-friendly web applications. With a strong foundation in React.js, Express.js,
-            and MongoDB, I specialize in building scalable solutions for modern web experiences.
-          I thrive on solving complex problems and bringing ideas to life through code. When I'm not coding,
-          you can find me exploring new technologies, working on side projects, or collaborating with
-          like-minded professionals to create impactful digital solutions.
+            Hello! I'm <strong>Siddu Kulkarni</strong>, An aspiring tech professional pursuing a Bachelor of Computer Applications (BCA).
+            Passionate about learning new technologies and staying updated with industry trends, with a strong interest in various aspects of technology, 
+            core strengths include quick learning, attention to detail, and adaptability. Currently learning Frontend Devlopment. 
+            Open to connecting with tech professionals and fellow learners passionate about innovation and technology..
         </p>
-        <p>
-          Let’s build something amazing together!
-        </p>
+        
       </div>
 
       <div className="col-12 col-md-6 text-center">
