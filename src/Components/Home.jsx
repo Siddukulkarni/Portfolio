@@ -8,12 +8,10 @@ const Home = () => {
       <div className="container-fluid home-container">
         <div className="row align-items-center">
           <div className="col-12 col-md-6 text-section">
-            <h1 className="title">Hi, This is Siddu Kulkarni  </h1>
+            <h1 className="title">Hi, I'm Siddu Kulkarni  </h1>
             
-            <h5 className="subtitle">And I'm BCA Student</h5>
-            <p className="description">
-              A passonite Coder.
-            </p>
+            <h5 className="subtitle">Tech Enthusiast</h5>
+            
           </div>
           <div className="col-12 col-md-6 text-center image-section">
             <img src={img} alt="Profile-photo" className="profile-img img-fluid" />
